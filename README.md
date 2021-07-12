@@ -6,7 +6,7 @@ Before running the notebooks, you must prepare some image/video files, as posted
 You could equally use your own images and videos.
 
 Chapter 01- <fuji-mountain-001.png>
-            <mixkit-white-sand-beach-and-palm-trees-1564-large.mp4>
+            <mixkit-camels-walking-in-the-desert-4285-large.mp4>
             
             
             
