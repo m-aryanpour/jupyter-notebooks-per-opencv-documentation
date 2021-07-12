@@ -1,5 +1,5 @@
 # python-codes-per-opencv-documentation
-a collection of worked jupyter notebooks following the documentation of OpenCV
+a collection of worked python scripts following the documentation of OpenCV
 
 #---- required files
 Before running the scripts, you must prepare some image/video files, posted below. 
